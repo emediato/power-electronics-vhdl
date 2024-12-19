@@ -1,9 +1,10 @@
 https://gtkwave.sourceforge.net/
 
 https://ghdl.github.io/ghdl/development/building/index.html
+https://github.com/open-logic/open-logic/blob/main/doc/tutorials/VivadoTutorial.md
 
 https://repositorio.ufsm.br/handle/1/31325
-
+https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf
 https://www.typhoon-hil.com/blog/meet-the-new-hil606-with-cto-dusan-majstorovic/
 
 https://direct.mit.edu/books/monograph/4016/Finite-State-Machines-in-HardwareTheory-and-Design
@@ -41,11 +42,29 @@ No Flip-flop primitives feature both a set and a reset, whether synchronous or a
 • Always describe the clock enable, set, and reset control inputs of flip-flop primitives as active-High. If they are described as active-Low, the resulting inverter logic will penalize circuit performance.
 
 
-TODO 
+# TODO 
 
 asynchronous assertion, synchronous deassertion
+https://docs.cocotb.org/en/stable/simulator_support.html
 
+## READ
 
-READ
+### from academia research
+https://www.mpp.mpg.de/en/research
+https://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A747961&dswid=-6785 https://liu.diva-portal.org/smash/get/diva2:747961/FULLTEXT01.pdf
+
+https://portal.cs.umbc.edu/help/VHDL/sequential.html
+https://web.stanford.edu/class/ee183/ee121_win2002_handouts/lect7.pdf
+
+### from websites 
+https://nandland.com/signed-vs-unsigned-dealing-with-negative-numbers/
+https://nandland.com/arrays/
 https://adaptivesupport.amd.com/s/question/0D52E00006hpKqxSAE/reset-asynchronous-assert-synchronous-deassert-why-asynchronous-assert?language=en_US
-
+https://docs.amd.com/viewer/book-attachment/5Gn4aq9Up_2U3j5XVNpQrg/UJNqkwPD4M_y47APXIJVYQ
+https://www.reddit.com/r/FPGA/comments/1gt92v1/ip_cores_and_fpga_limitations/
+https://www.sigasi.com/tech/vhdl-resets/
+https://vhdlwhiz.com/part-2-finite-impulse-response-fir-filters/#serial-implementation
+https://vhdlwhiz.com/terminology/translate/
+https://www.reddit.com/r/FPGA/comments/yu6s2h/clocks_vs_strobe_signals_to_multiplex_a_bus/
+https://electronics.stackexchange.com/questions/408458/data-strobe-in-ddr-memory
+https://www.linkedin.com/pulse/many-ways-mess-up-readyvalid-handshaking-lukas-vik-2mqdf/?trackingId=DXVQvI3YOqo1lLnP9RZAag%3D%3D
