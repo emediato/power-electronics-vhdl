@@ -1,3 +1,6 @@
+https://direct.mit.edu/books/monograph/4016/chapter-abstract/167107/Design-Steps-and-Classical-Mistakes?redirectedFrom=PDF
+
+
 https://gtkwave.sourceforge.net/
 
 https://ghdl.github.io/ghdl/development/building/index.html
