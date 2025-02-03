@@ -71,3 +71,13 @@ https://vhdlwhiz.com/terminology/translate/
 https://www.reddit.com/r/FPGA/comments/yu6s2h/clocks_vs_strobe_signals_to_multiplex_a_bus/
 https://electronics.stackexchange.com/questions/408458/data-strobe-in-ddr-memory
 https://www.linkedin.com/pulse/many-ways-mess-up-readyvalid-handshaking-lukas-vik-2mqdf/?trackingId=DXVQvI3YOqo1lLnP9RZAag%3D%3D
+
+### to buy
+
+https://digilent.com/shop/basys-3-artix-7-fpga-trainer-board-recommended-for-introductory-users/
+https://digilent.com/shop/arty-a7-100t-artix-7-fpga-development-board/
+https://github.com/muhammadaldacher/FPGA-Design-of-a-Digital-Analog-Clock-Display-using-Digilent-Basys3-Artix-7/blob/master/LAB7_PicoBlaze_Assembly/lab7.srcs/constrs_1/imports/ee178_fall2017_lab7/tutorial.xdc
+
+
+https://wavedrom.com/
+
