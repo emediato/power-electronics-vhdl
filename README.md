@@ -1,5 +1,12 @@
-https://direct.mit.edu/books/monograph/4016/chapter-abstract/167107/Design-Steps-and-Classical-Mistakes?redirectedFrom=PDF
 
+
+### testbench generator
+
+https://vhdl.lapinoo.net/testbench/
+
+## academic background 
+
+https://direct.mit.edu/books/monograph/4016/chapter-abstract/167107/Design-Steps-and-Classical-Mistakes?redirectedFrom=PDF
 
 https://gtkwave.sourceforge.net/
 
@@ -45,7 +52,7 @@ No Flip-flop primitives feature both a set and a reset, whether synchronous or a
 • Always describe the clock enable, set, and reset control inputs of flip-flop primitives as active-High. If they are described as active-Low, the resulting inverter logic will penalize circuit performance.
 
 
-# TODO 
+# TODO coco tb
 
 asynchronous assertion, synchronous deassertion
 https://docs.cocotb.org/en/stable/simulator_support.html
