@@ -59,12 +59,26 @@ https://docs.cocotb.org/en/stable/simulator_support.html
 
 ## READ
 
+
 ### from academia research
 https://www.mpp.mpg.de/en/research
 https://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A747961&dswid=-6785 https://liu.diva-portal.org/smash/get/diva2:747961/FULLTEXT01.pdf
 
 https://portal.cs.umbc.edu/help/VHDL/sequential.html
+
 https://web.stanford.edu/class/ee183/ee121_win2002_handouts/lect7.pdf
+
+Modeling https://vbn.aau.dk/en/publications/statistical-model-checking-for-finite-set-model-predictive-contro
+
+Digital Twin Techniques for Power Electronics-Based Energy Conversion Systems: A Survey of Concepts, Application Scenarios, Future Challenges, and Trends https://ieeexplore.ieee.org/document/9950705 
+
+Buck https://eletronicadepotencia.com/modelagem-dinamica-do-conversor-buck/
+
+P-HIL https://sci-hub.se/10.1109/TIA.2018.2833424
+
+PFC 
+https://www.ams-publications.ee.ethz.ch/uploads/tx_ethpublications/1_APEC_ID1151_230223_FINAL-updated_Menzi.pdf
+https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2368014/11770_FULLTEXT.pdf?sequence=1
 
 ### from websites 
 https://nandland.com/signed-vs-unsigned-dealing-with-negative-numbers/
