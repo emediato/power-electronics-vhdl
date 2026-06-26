@@ -1,3 +1,5 @@
+/*
+
 -- set_max_delay
 -- -datapath_only
 -- <delay>
@@ -10,7 +12,7 @@
 -- -from .../enable
 -- -to .../en_meta_ff
 
-
+ */
 module data_sync_xilinx (input clk, enable, input [3:0] data_in,
                          output reg [3:0] data_out);
 
