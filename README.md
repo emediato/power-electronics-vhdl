@@ -4,7 +4,11 @@
 
 https://vhdl.lapinoo.net/testbench/
 
-## academic background 
+### cool stuff
+
+https://www.righto.com
+
+### academic background 
 
 https://direct.mit.edu/books/monograph/4016/chapter-abstract/167107/Design-Steps-and-Classical-Mistakes?redirectedFrom=PDF
 
@@ -30,7 +34,7 @@ https://ohwr-gitlab.cern.ch/project/fmc-hv-2ch/blob/master/hdl/testbench/adc_ltc
 
 https://ohwr-gitlab.cern.ch/project/fmc-hv-2ch/blob/master/hdl/testbench/adc_ltc2484.vhd
 
-# Coding Guidelines 
+## Coding Guidelines 
 from https://www.amd.com/content/dam/xilinx/support/documents/sw_manuals/xilinx2022_1/ug901-vivado-synthesis.pdf
 
 • Do not asynchronously set or reset registers.
@@ -52,12 +56,12 @@ No Flip-flop primitives feature both a set and a reset, whether synchronous or a
 • Always describe the clock enable, set, and reset control inputs of flip-flop primitives as active-High. If they are described as active-Low, the resulting inverter logic will penalize circuit performance.
 
 
-# TODO coco tb
+## TODO coco tb
 
 asynchronous assertion, synchronous deassertion
 https://docs.cocotb.org/en/stable/simulator_support.html
 
-## READ
+## TODO READ
 
 
 ### from academia research
